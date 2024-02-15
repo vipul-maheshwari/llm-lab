@@ -3,7 +3,7 @@
 
 | UseCase   |      Frameworks/Library      |  Colab |
 |----------|:-------------:|------:|
-| Create LLM applications using RAG| Langchain, LanceDB, |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YsOfovVdNPBwCDMWHvLfOaNtqXn4qXTs?usp=sharing) |
+| Create LLM applications using RAG| Langchain, LanceDB and HuggingFace |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YsOfovVdNPBwCDMWHvLfOaNtqXn4qXTs?usp=sharing) |
 
 
 ## Blogs
