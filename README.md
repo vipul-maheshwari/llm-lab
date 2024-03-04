@@ -15,6 +15,6 @@ If you have any further updates or corrections, feel free to let me know!
 ## Blogs
 
 - [A Comprehensive Blog to understand how to use LLMs for RAG applications](https://vipul-maheshwari.github.io/2024/02/14/rag-application-with-langchain)
-- [Multimodal RAG applications](https://vipul-maheshwari.github.io/2024/03/03/multimodal-rag-application)
+- [GTA5 Multimodal RAG application](https://vipul-maheshwari.github.io/2024/03/03/multimodal-rag-application)
 
 ## Papers
